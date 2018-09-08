@@ -72,6 +72,12 @@
 
 <br/>
 
+**Redis**([笔记](./redis))
+> NoSql学的Redis，主要掌握的知识点是五种数据类型、持久化（RDB和AOF）、事务（watch\multi\exec\discard）、主从复制(master-slave)。同时自己基于Spring的RedisTemplate设计一个更方面的RedisUtil工具类。
+
+<br/>
+
+
 ## 设计模式
 
 [设计模式笔记](./design-patterns)
