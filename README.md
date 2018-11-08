@@ -50,11 +50,23 @@
 
 <br/>
 
+**剑指Offer**([代码](https://github.com/hdonghong/sword4offer))
+
+> 很有名气的笔试类算法题书，断断续续总算用Java刷完了，书的题解讲的很赞。立个Flag：用Scala重写一遍。
+
+<br/>
+
 ## 网络
 
 **图解HTTP**([笔记](./resources/图解Http笔记.pdf))
 
 > 赞！！！看了两遍，基本上Http基本的东西都清楚了。当然对于这个协议更深层面的东西还需要更高级的书。
+
+<br/>
+
+**图解TCP**
+
+> 相比上本HTTP，TCP或许相对来说枯燥了些，阅读体验没有上本好，不过只看了一遍，可能再看一遍感觉会更好也说不定。
 
 <br/>
 
@@ -74,6 +86,11 @@
 
 **Redis**([笔记](./redis))
 > NoSql学的Redis，主要掌握的知识点是五种数据类型、持久化（RDB和AOF）、事务（watch\multi\exec\discard）、主从复制(master-slave)。同时自己基于Spring的RedisTemplate设计一个更方面的RedisUtil工具类。
+
+<br/>
+
+**Redis设计与实现**
+> 将Redis源码的书，很有难度，我看了前面五种数据结构源码的部分。
 
 <br/>
 
@@ -111,7 +128,7 @@
 
 <br/>
 
-**面经**[查看](./面经))
+**面经**「[查看](./面经)」
 
 > 大二开始Java实习，记录自己的面试经历，实习经历
 
